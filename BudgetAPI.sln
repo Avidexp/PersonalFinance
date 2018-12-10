@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BudgetAPI", "BudgetAPI\BudgetAPI.csproj", "{BD2335B7-CB2E-421E-9796-6546C60DA7F1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BudgetAPI.Tests", "BudgetAPI.Tests\BudgetAPI.Tests.csproj", "{7B9A1C23-AB77-44F1-84A5-6642E28BEC8E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BD2335B7-CB2E-421E-9796-6546C60DA7F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD2335B7-CB2E-421E-9796-6546C60DA7F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD2335B7-CB2E-421E-9796-6546C60DA7F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD2335B7-CB2E-421E-9796-6546C60DA7F1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7B9A1C23-AB77-44F1-84A5-6642E28BEC8E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7B9A1C23-AB77-44F1-84A5-6642E28BEC8E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7B9A1C23-AB77-44F1-84A5-6642E28BEC8E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7B9A1C23-AB77-44F1-84A5-6642E28BEC8E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {95AAEA0F-7D39-4381-BA06-1050132EEA5C}
+	EndGlobalSection
+EndGlobal
