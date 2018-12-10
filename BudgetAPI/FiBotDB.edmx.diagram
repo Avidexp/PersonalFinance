@@ -5,12 +5,12 @@
     <!-- Diagram content (shape and connector positions) -->
     <edmx:Diagrams>
       <Diagram DiagramId="79bcddb7bb9040fab8ced5878347bbd5" Name="Diagram1">
-        <EntityTypeShape EntityType="FiBotModel.Address" Width="1.5" PointX="1.5" PointY="10.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="FiBotModel.Address" Width="1.5" PointX="2.75" PointY="7.375" IsExpanded="true" />
         <EntityTypeShape EntityType="FiBotModel.Budget" Width="1.5" PointX="4.125" PointY="2.875" IsExpanded="true" />
-        <EntityTypeShape EntityType="FiBotModel.Category" Width="1.5" PointX="1.625" PointY="0.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="FiBotModel.Category" Width="1.5" PointX="1.125" PointY="1.125" IsExpanded="true" />
         <EntityTypeShape EntityType="FiBotModel.Transaction" Width="1.5" PointX="6.75" PointY="1.5" IsExpanded="true" />
-        <EntityTypeShape EntityType="FiBotModel.TransactionType" Width="1.5" PointX="9" PointY="4.625" IsExpanded="true" />
-        <EntityTypeShape EntityType="FiBotModel.User" Width="1.5" PointX="1" PointY="4.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="FiBotModel.TransactionType" Width="1.5" PointX="9.25" PointY="3.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="FiBotModel.User" Width="1.5" PointX="1" PointY="3.75" IsExpanded="true" />
         <AssociationConnector Association="FiBotModel.FK_Address_User" ManuallyRouted="false" />
         <AssociationConnector Association="FiBotModel.FK_Users_Address" ManuallyRouted="false" />
         <AssociationConnector Association="FiBotModel.FK_Budget_Categories" ManuallyRouted="false" />
